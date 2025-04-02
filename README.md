@@ -52,7 +52,7 @@ Contextual chatbots use machine learning (ML) and natural language processing (N
 - Fast & Efficient: Responds quickly without unnecessary delays
 - Multimodal Support: Can handle text, voice, images, and even file uploads if needed
 
-### Problem-Solving Ability & Helpfullness
+### Problem-Solving Ability & Helpfulness
 
 - Solves Real Problems: Assists with common user needs (customer support, FAQs, bookings, etc.)
 - Proactive Suggestions: Recommends next steps (e.g., "Would you like to track your order?")
@@ -86,7 +86,7 @@ Contextual chatbots use machine learning (ML) and natural language processing (N
 |Feature|Good Chatbots|Bad Chatbots|
 |:------|:------------|:-----------|
 |Natural Language Understanding | High|Low|
-|Adaptability|Leanrns & improves|Stagnant|
+|Adaptability|Learns & improves|Stagnant|
 |Response Accuracy|High|Irrelevant or incorrect|
 |User Satisfaction|High|Frustrating|
 
