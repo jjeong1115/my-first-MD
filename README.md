@@ -1,6 +1,6 @@
 # Good Chatbot / Bad Chatbot
 
-![]()
+![image](/img/ChatGPT%20Image.png)
 
 
 ## Table of Contents
