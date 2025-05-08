@@ -14,7 +14,7 @@
 
 ## What Is a Chatbot?
 
-Chatbot is a computer program that simulates human conversation with an end user. Not all chatbots are equipped with artificial intelligence (AI), but modern chatbots increasingly use conversational AI techniques such as natural language processing (NLP) to understand user questions and automate responses to them. Customers often use chatbots for quick answers to questions about products or services or for help with simple tasks such as booking appointments or tracking orders. Customer service teams can also use chatbots to handle routine inquiries, allowing them to focus on more complex customer needs. This helps deflect cases, reduce agent burnout, streamline processes, and improve customer service metrics such as customer satisfaction score (CSAT).
+Chatbot is a computer program that simulates human conversation with an end user. Not all chatbots are equipped with artificial intelligence (AI), but modern chatbots increasingly use conversational AI techniques such as natural language processing (NLP) to understand user questions and automate responses to them. Customers often use chatbots for quick answers to questions about products or services or for help with simple tasks such as booking appointments or tracking orders. Customer service teams can also use chatbots to handle routine inquiries, allowing them to focus on more complex customer needs. This helps deflect cases, reduce agent burnout, streamline processes, and improve customer service metrics such as customer satisfaction score (CSAT)[^1].
 
 ## Types of chatbots
 
@@ -71,16 +71,6 @@ Contextual chatbots use machine learning (ML) and natural language processing (N
 - Transparency: Informs users how their data is used
 
 
-## Key Differences Between a Good Chatbot and a Bad Chatbot
-
-|Feature|Good Chatbots|Bad Chatbots|
-|:------|:------------|:-----------|
-|Natural Language Understanding |High|Low|
-|Adaptability|Learns & improves|Stagnant|
-|Response Accuracy|High|Irrelevant or incorrect|
-|User Satisfaction|High|Frustrating|
-|User Data Security|High|Low|
-|Regulated|Yes|No or TBD|
 
 ## What Makes a Chatbot "Bad"?
 
@@ -100,17 +90,45 @@ Some bots are created to trick users or to collect personal data without clear u
 - Scam bots mimicking official services (e.g. fake banking bots)
 - Some bots collect personal data without clear user consent
 
-Example: Reblika AI 
+Example: Reblika AI - Critics have raised alarms over the collection and storage of intimate user conversations, especially without a transparent privacy policy.
 
 ![](https://www.diggitmagazine.com/sites/default/files/styles/content_image_fixed_md/public/597aa70db2ea019f3e4d67e9f63dfa13_fgraphic%2520%25281%2529.png.webp?itok=LKY2m8Ux)
 *Source: Diggit Magazine*
 
 
 ## Bad Chatbot or Lack of Regulation? 
-Yes, some chatbots are considered "bad" - either due to poor deisign or unethical use but it's not just the technology itself. It is also the lack of regulation and responsible design that contributes to problems. 
+Yes, some chatbots are considered "bad" - either due to poor moderation or unethical use but it's not just the technology itself. It is also the lack of regulation and responsible design that contributes to problems. 
 
+### 🇪🇺 EU AI Act (2024)
+
+EU Ai Act was passed last year, which are set to take effect gradually over several years. It bans certain AI uses, introduces new transparency rules and requires risk assessments for AI systems that are deemed high-risk. The new legislation applies to AI products in the EU market, regardless of where they were developed. It is backed by fines of up to 7% of a company’s worldwide revenue.
+
+### 🇰🇷 South Korea - No Federal AI Law Yet
+
+'AI 기본법' never passed
+
+### 🇺🇸 U.S. - No Federal AI Law Yet
+
+The Colorado AI Act (2024)
+
+Colorado is the first U.S. state to regulate AI, aiming to prevent consumer harm and discrimination. It established rules for the developers and deployers of AI systems, with a focus on algorithmic discrimination and “high-risk” systems — AI tools and platforms active in essential areas like housing, healthcare, education and employment. New requirements for high-risk AI systems will start in 2026.
+
+
+## Key Differences Between a "Good" Chatbot and a "Bad" Chatbot
+
+|Feature|Good Chatbots|Bad Chatbots|
+|:------|:------------|:-----------|
+|Natural Language Understanding |High|Low|
+|Adaptability|Learns & improves|Stagnant|
+|Response Accuracy|High|Irrelevant or incorrect|
+|User Satisfaction|High|Frustrating|
+|User Data Security|High|Low|
+|Regulated|Yes|No or TBD|
+
+---
 
 ## References
 
-- [IBM](https://www.ibm.com/think/topics/chatbots)
-- [Salesforce](https://www.salesforce.com/agentforce/chatbot/)
+[^1]: IBM [IBM](https://www.ibm.com/think/topics/chatbots)
+
+Slaesforce [Salesforce](https://www.salesforce.com/agentforce/chatbot/)
