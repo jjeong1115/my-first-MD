@@ -82,7 +82,7 @@ Example: Microsoft's *Tay* Chatbot (2016) - Designed to learn from Twitter users
 
 
 ![](https://media.npr.org/assets/img/2016/03/24/screen-shot-2016-03-24-at-10.48.22-1-_custom-f645238c4dc5351759f4756014fd18efd6e61124.png?s=1100&c=50&f=png)
-*Source: [NPR](https://media.npr.org/assets/img/2016/03/24/screen-shot-2016-03-24-at-10.48.22-1-_custom-f645238c4dc5351759f4756014fd18efd6e61124.png?s=1100&c=50&f=png)*
+*Image Source: [NPR](https://media.npr.org/assets/img/2016/03/24/screen-shot-2016-03-24-at-10.48.22-1-_custom-f645238c4dc5351759f4756014fd18efd6e61124.png?s=1100&c=50&f=png)*
 
 
 ### 2. Deceptive Use or Invasive Data Practices
@@ -96,7 +96,7 @@ Some bots are created to trick users or to collect personal data without clear u
 Example: Replika AI - Critics have raised alarms over the collection and storage of intimate user conversations, especially without a transparent privacy policy.
 
 ![](https://www.diggitmagazine.com/sites/default/files/styles/content_image_fixed_md/public/597aa70db2ea019f3e4d67e9f63dfa13_fgraphic%2520%25281%2529.png.webp?itok=LKY2m8Ux)
-*Source: [Diggit Magazine](https://www.diggitmagazine.com/sites/default/files/styles/content_image_fixed_md/public/597aa70db2ea019f3e4d67e9f63dfa13_fgraphic%2520%25281%2529.png.webp?itok=LKY2m8Ux)*
+*Image Source: [Diggit Magazine](https://www.diggitmagazine.com/sites/default/files/styles/content_image_fixed_md/public/597aa70db2ea019f3e4d67e9f63dfa13_fgraphic%2520%25281%2529.png.webp?itok=LKY2m8Ux)*
 
 
 ## Bad Chatbot or Lack of Regulation? 
